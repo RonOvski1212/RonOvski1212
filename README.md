@@ -70,4 +70,9 @@
   </tr>
 </table>
 
+[![GitHub followers](https://img.shields.io/github/followers/RonOvski1212?label=Follow&style=social)](https://github.com/RonOvski1212)
+[![GitHub stars](https://img.shields.io/github/stars/RonOvski1212/MarvelServer?style=social)](https://github.com/RonOvskii1212/MarvelServer)
+[![GitHub watchers](https://img.shields.io/github/watchers/RonOvski1212/MarvelServer?style=social)](https://github.com/RonOvski1212/MarvelServer)
+[![GitHub forks](https://img.shields.io/github/forks/RonOvski1212/MarvelServer?style=social)](https://github.com/RonOvski1212/MarvelServer)
+
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey) -->
