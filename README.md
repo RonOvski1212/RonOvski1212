@@ -2,11 +2,9 @@
 
 ---
 
-### <p align="center">
+### <div display="flex"><img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> About me: </img>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
-  <h3>About me:</h3>
-</p>
+</div>
 
 <p align="center">I'm a passionate Frontend Developer with a love for creating great web applications and interactive user interfaces, originally from Georgia. I am committed to learning new technologies and methodologies, always ready for constant growth and improvement. Additionally, I am ready to work in a team, share ideas, and create products with colleagues that inspire users.</p>
 
