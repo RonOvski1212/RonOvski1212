@@ -2,9 +2,7 @@
 
 ---
 
-### <div display="flex"><img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-
-<p> About me: </p>
+### <div display="flex"><img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">About me:
 
 </div>
 
