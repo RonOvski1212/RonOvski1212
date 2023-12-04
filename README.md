@@ -1,7 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Giorgi</h1>
 
----
-
 ### :man_technologist: About me:
 
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I'm a passionate Frontend Developer with a love for creating great web applications and interactive user interfaces, originally from Georgia. I am committed to learning new technologies and methodologies, always ready for constant growth and improvement. Additionally, I am ready to work in a team, share ideas, and create products with colleagues that inspire users.</p>
@@ -34,6 +32,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
